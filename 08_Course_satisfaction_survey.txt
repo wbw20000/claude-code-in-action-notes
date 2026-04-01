@@ -1,0 +1,74 @@
+Lessons
+Header Navigation
+Anthropic Academy
+Courses
+My Profile
+Sign Out
+Anthropic Academy
+Courses
+My Profile
+Sign Out
+Claude Code in Action
+Course Overview
+What is Claude Code?
+Introduction
+What is a coding assistant?
+Claude Code in action
+Getting hands on
+Claude Code setup
+Project setup
+Adding context
+Making changes
+Course satisfaction survey
+Controlling context
+Custom commands
+MCP servers with Claude Code
+Github integration
+Hooks and the SDK
+Introducing hooks
+Defining hooks
+Implementing a hook
+Gotchas around hooks
+Useful hooks!
+Another useful hook
+The Claude Code SDK
+Wrapping up
+Quiz on Claude Code
+Summary and next steps
+Course satisfaction survey
+Open in Claude
+Open in Claude
+Ask questions about this course
+Copy notes
+Copy full course notes for LLMs
+Complete!
+Elapsed time:
+Less than a minute
+Show Answers
+Hide Answers
+Question 1:
+How happy are you with this course so far?
+Very satisfied
+Satisfied
+Neutral
+Dissatisfied
+Very dissatisfied
+Too soon to tell
+Question 2:
+On a scale of one to five, how likely are you to recommend this course to a friend or colleague?
+5 - Very likely
+4 - Likely
+3 - Maybe
+2 - Unlikely
+1 - Very unlikely
+Too soon to tell
+Question 3:
+Is there any feedback you'd like to provide based upon your experience with this course so far?
+Your response:
+Take this again
+Previous
+- Making changes
+Course satisfaction survey
+Controlling context
+Next
+Complete
