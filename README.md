@@ -56,11 +56,12 @@ Anthropic Academy 官方课程 **"Claude Code in Action"** 的完整学习笔记
 
 ```
 ├── README.md                                    # 本文件
-├── Claude_Code_in_Action_Full_Course.md         # 完整课程笔记（合并版）
-├── 01_Introduction.txt                          # 各课时原始内容
-├── 02_What_is_a_coding_assistant.txt
-├── ...
-└── 21_Summary_and_next_steps.txt
+├── en/                                          # English (原版)
+│   ├── Claude_Code_in_Action_Full_Course.md     #   完整课程笔记（合并版）
+│   ├── 01_Introduction.txt                      #   各课时原始内容
+│   ├── ...
+│   └── 21_Summary_and_next_steps.txt
+└── zh/                                          # 中文版 (Coming soon)
 ```
 
 ## 学习目标
